@@ -32,10 +32,10 @@
 
 **<h3>:book: Ejemplo de Salida:</h3>**
 
-<img src="./img/temperatura_cambio_unidad_fkc.png" alt="" style="width: 40%;">
+<img src="./img/temperatura_cambio_unidad_fkc.png" alt="" style="width: 60%;">
 
-<img src="./img/fahrenheit.png" alt="" style="width: 80%;">
+<img src="./img/fahrenheit.png" alt="" style="width: 60%;">
 
-<img src="./img/kelvin.png" alt="" style="width: 80%;">
+<img src="./img/kelvin.png" alt="" style="width: 60%;">
 
-<img src="./img/celcius.png" alt="" style="width: 80%;">
+<img src="./img/celcius.png" alt="" style="width: 60%;">
